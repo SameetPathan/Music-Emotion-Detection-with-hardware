@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(npm run *)",
+      "Bash(npm list *)",
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(ffmpeg -version)",
+      "Bash(where ffmpeg *)",
+      "Read(//c/ffmpeg/**)",
+      "Read(//c/Program Files/ffmpeg/**)",
+      "Bash(rm Pipfile)",
+      "Bash(rm Pipfile.lock)",
+      "PowerShell(& \"D:\\\\projects\\\\Music Melody\\\\Music_Emotion_Detection_System\\\\.venv\\\\Scripts\\\\python.exe\" -m pip install firebase-admin)"
+    ]
+  }
+}
